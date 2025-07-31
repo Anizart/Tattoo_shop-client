@@ -1,0 +1,33 @@
+@import "./reset.css";
+
+:root {
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.hidden {
+  overflow: hidden;
+}
+
+.main {
+  overflow: hidden;
+}
+
+.wrapper {
+  height: fit-content;
+  overflow: hidden;
+}
+
+.container {
+  height: 100%;
+  max-width: 1180px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+img {
+  height: 100%;
+  width: 100%;
+}
